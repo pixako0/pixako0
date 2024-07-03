@@ -43,9 +43,14 @@ int main() {
  p1.project = "IRC Client";
  p1.language = "C++";
  p1.description = "An IRC client written in C++ using sockets";
+ Project p2;
+ p2.project = "Saturn Hosting";
+ p2.language = "PHP";
+ p2.description = "Saturn Hosting offering cloud hosting https://github.com/Saturn-Hosting";
 
  AboutMe me;
  me.projects.push_back(p1);
+ me.projects.push_back(p2);
  me.introduce();
 }
 ```
