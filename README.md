@@ -46,7 +46,7 @@ int main() {
  Project p2;
  p2.project = "Saturn Hosting";
  p2.language = "PHP";
- p2.description = "Saturn Hosting offering cloud hosting https://github.com/Saturn-Hosting";
+ p2.description = "Saturn Hosting offering free cloud hosting https://github.com/Saturn-Hosting";
 
  AboutMe me;
  me.projects.push_back(p1);
