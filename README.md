@@ -21,7 +21,7 @@ class AboutMe
 {
  public:
   string nick = "Fulgur";
-  int age = 18;
+  int age = 19;
   string gender = "male";
   string about = "full stack developer student that enjoys breaking and fixing things.";
   string location = "Netherlands";
