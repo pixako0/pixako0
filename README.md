@@ -1,58 +1,48 @@
-### Hello. (•◡•)/
 
-<p> <img src="https://komarev.com/ghpvc/?username=Fulgur0" /> </p>
+<h2 align="center">How did you get here...?</h3>
 
-```cpp
-#include <iostream>
-#include <vector>
-#include <string>
+<h2 align="center">There is not much to see, most things are privated anyways...</h2>
 
-using namespace std;
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Fulgur0" alt="Fulgur0" /></a> </p>
 
-class Project
-{
- public:
-  string project;
-  string language;
-  string description;
-};
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fulgur0&show_icons=true&locale=en&layout=compact" alt="Fulgur0" /></p>
 
-class AboutMe
-{
- public:
-  string nick = "Fulgur";
-  int age = 19;
-  string gender = "male";
-  string about = "full stack developer student that enjoys breaking and fixing things.";
-  string location = "Netherlands";
-  vector<string> hobbies = { "Programming", "IRC", "Cycling" };
-  vector<string> languages = { "C++", "PHP", "C#", "CSS", "HTML", "Python" };
-  vector<string> os = { "Windows", "Qubes OS" };
-  vector<string> timezone = { "UTC+2" };
-  vector<Project> projects;
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fulgur0&show_icons=true&locale=en" alt="Fulgur0" /></p>
 
-  void introduce() {
-   cout << "Hello, my name is " << this->nick << ". I\'m from " << this->location << " and am " << this->age << " years old." << endl;
-   cout << "I\'m a " << this->about << endl;
-  }
 
-};
 
-int main() {
- Project p1;
- p1.project = "IRC Client";
- p1.language = "C++";
- p1.description = "An IRC client written in C++ using sockets";
- Project p2;
- p2.project = "Saturn Hosting";
- p2.language = "PHP";
- p2.description = "Saturn Hosting offering free cloud hosting https://github.com/Saturn-Hosting";
+# Work-qualifed
+- Laravel, PHP
+- C
+- Sockets in most programming languages. Python, C, C++, C#; you name it.
+- Diagrams~
 
- AboutMe me;
- me.projects.push_back(p1);
- me.projects.push_back(p2);
- me.introduce();
-}
-```
+# Can (probably) do
+- Node.js
+- C#, C++
+- x86, ARM assembly
+- Java
+- Front End Stuffs
+- DB (relational/non-relational)
+- SQL
+- QC/QA
+- lisp/scheme :)
+- #### > Sit and listen in cooperate meeting, ~~argue with managers.~~ create mutual understanding between departments.<
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fulgur)
+✨ Important ✨
+I'm an engineer by nature, if you see smelly code, it means you haven't paid me enough to buy proper cooking instruments.
+  
+<!--
+**Fulgur0/Fulgur0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
