@@ -13,12 +13,12 @@
 
 # Work-qualifed
 - Laravel, PHP
-- C
 - Sockets in most programming languages. Python, C, C++, C#; you name it.
 - Diagrams~
 
 # Can (probably) do
 - Node.js
+  C
 - C#, C++
 - x86, ARM assembly
 - Java
