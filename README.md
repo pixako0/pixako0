@@ -18,7 +18,7 @@
 
 # Can (probably) do
 - Node.js
-  C
+- C
 - C#, C++
 - x86, ARM assembly
 - Java
