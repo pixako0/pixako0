@@ -15,12 +15,12 @@
 - Laravel, PHP
 - MySQL
 - Python 3.4
+- C#, WinUI 3, UWP
 - Sockets in most programming languages. Python, C, C++, C#; you name it.
 - Diagrams~
 
 # Can (probably) do
 - Node.js
-- C#
 - C++
 - Front End Stuffs (HTML/CSS/JS)
 - #### > Sit and listen in cooperate meeting, ~~argue with managers.~~ create mutual understanding between departments.<
